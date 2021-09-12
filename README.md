@@ -1,4 +1,4 @@
-# CAM
+# CAM HACKING
 # Packages install requirement
 
 pkg install php
