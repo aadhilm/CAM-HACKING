@@ -17,7 +17,7 @@ ls
 
 chmod +x *  (give permission to run)
 
-./selfiehack.sh (to run the program)
+./CAM HACK.sh (to run the program)
 
 Ctrl+C (to stop the program) 
 
